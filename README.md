@@ -2,15 +2,17 @@
 
 Description of the module
 
-## Usage 
+> After creating a repo from this template, run [SDLC sync](https://github.com/terraform-mongodbatlas-modules/terraform-mongodbatlas-cluster/blob/main/contributing/new-repo-guide.md) to populate CI workflows, contributing guides, and tooling.
+
+## Usage
 
 
 ## Resources
 
 
-## Considerations 
+## Considerations
 
 
 ## License
 
-See LICENSE <link_to_license> for full details.
+See LICENSE for full details.
